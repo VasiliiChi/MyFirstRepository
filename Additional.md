@@ -1,0 +1,1 @@
+Это изменение файла Additional.md в ветке awesome-feature
